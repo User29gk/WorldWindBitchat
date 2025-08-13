@@ -11,6 +11,12 @@
             android:icon="@android:drawable/ic_menu_compass"
             android:title="@string/title_multi_globe"/>
         <item
+            android:id="@+id/nav_bitchat"
+            android:icon="@android:drawable/ic_dialog_email"
+            android:title="Bitchat"
+            />
+
+        <item
             android:id="@+id/nav_kml_demo_activity"
             android:icon="@android:drawable/ic_menu_compass"
             android:title="@string/title_kml_demo"/>
