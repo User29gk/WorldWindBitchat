@@ -13,7 +13,7 @@
         <item
             android:id="@+id/nav_bitchat"
             android:icon="@drawable/chat"
-            android:title="Bitchat"
+            android:title="bitchat"
             />
         <item
             android:id="@+id/nav_kml_demo_activity"
