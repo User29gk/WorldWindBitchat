@@ -3,6 +3,10 @@
 
     <group android:checkableBehavior="single">
         <item
+            android:id="@+id/nav_bitchat"
+            android:icon="@android:drawable/ic_menu_send"
+            android:title="BiTChat"/>
+        <item
             android:id="@+id/nav_general_globe_activity"
             android:icon="@android:drawable/ic_menu_compass"
             android:title="@string/title_general_globe"/>
